@@ -17,6 +17,6 @@ No installation needed. Directly run work.sh
 ### Output:
 - chr18.0_5M.20k.PC1.txt
 
-### 4. Instructions for use
+## 4. Instructions for use
 
 Change the hard-coded paths in the code to your own paths where you place the input and output files
